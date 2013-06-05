@@ -108,8 +108,6 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` VALUES(20, 1, 'admin', '6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b', 'Default', 'Administrator');
-INSERT INTO `user` VALUES(27, 1, 'terrence', '3d5d5a79ed0557cb30b5af692127adcb126d3f0a3bac86385eb9805cb9822807', 'Terrence', 'Chiu');
-INSERT INTO `user` VALUES(28, 1, 'horace', '4d63f2f79178d0ad209717e3befbdd4668551f427e7137ac419f61e54307489d', 'Horace', 'Li');
-INSERT INTO `user` VALUES(29, 1, 'jerrine', 'db71d1bfb03f60328c0665a40a47bff96b025e7b9263ca63a538cbab08e55e4d', 'Jerrine', 'Soh');
-
+-- Username: admin
+-- Password: 1
 "	?>
