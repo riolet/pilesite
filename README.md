@@ -5,7 +5,7 @@ Developed as part of an open-ended coursework, designed to be a cross between a 
 
 More detailed info are available from /_readme
 
-!Not under active development!
+*Not under active development*
 
 Contributions
 -------------
